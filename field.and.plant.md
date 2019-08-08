@@ -22,7 +22,7 @@
 > https://www.japandict.com/kanji/%E7%94%B0
 
 ### Mnemonic
-A *rice field*
+A **rice field**
 
 ### Meaning
 >! RICE FIELD
@@ -43,7 +43,9 @@ A *rice field*
 > https://www.japandict.com/kanji/%E5%AF%8C
 
 ### Mnemonic
-Under whose _roof_ will go the *riches* of the _field_?
+Under whose _roof_ will go the **riches** of the _field_?
+
+The first thing she did after **getting rich** was buy a _crown_ and some _wine_, and thenceforth get **FU**cked up!
 
 ### Meaning
 >! WEALTH
@@ -67,7 +69,7 @@ Under whose _roof_ will go the *riches* of the _field_?
 > https://www.japandict.com/kanji/%E7%95%A5
 
 ### Mnemonic
-A surveyor walks around the *outline* of each _field_.
+A surveyor walks around the **outline** of each _field_.
 
 ### Meaning
 >! ABBREVIATE
@@ -87,10 +89,12 @@ A surveyor walks around the *outline* of each _field_.
 > https://www.japandict.com/kanji/%E4%BB%8B
 
 ### Mnemonic
-Two _people_ *mediate* over ...
+Two _people_ **mediate** over ...
+	
+I know it's _peaked roof_ plus _'8'_, but you can think of this as an arrow pointing at the person you are **introducing**, a la the coveted "I'M WITH STUPID" shirt.
 
 ### Meaning
->! MEDIDATE
+>! MEDIATE
 
 >! SHELL
 
@@ -107,7 +111,9 @@ Two _people_ *mediate* over ...
 > https://www.japandict.com/kanji/%E7%95%8C
 
 ### Mnemonic
-... the *boundaries* of the _field_.
+... the **boundaries** of the _field_.
+
+_Farmers_ used big **KITEs**, with their _farm's_ name printed on the underside, to introduce their _rice_ to the **world**!
 
 ### Meaning
 >! AREA
@@ -127,7 +133,9 @@ Two _people_ *mediate* over ...
 > https://www.japandict.com/kanji/%E7%95%91
 
 ### Mnemonic
-The _paddy_ is _burned_ dry and made into a *field*.
+The _paddy_ is _burned_ dry and made into a **field**.
+
+(SIGH) ok, look: They _burn_ the **field** to clear it, then they plant crops. Whatever.
 
 ### Meaning
 >! FARM
@@ -149,7 +157,7 @@ The _paddy_ is _burned_ dry and made into a *field*.
 > https://www.japandict.com/kanji/%E7%95%94
 
 ### Mnemonic
-The *ridges* divide the _paddy_ and hold in water.
+The **ridges** divide the _paddy_ and hold in water.
 
 ### Meaning
 >! RIDGE
@@ -171,6 +179,8 @@ The *ridges* divide the _paddy_ and hold in water.
 ### Mnemonic
 _Mom_ ate a *poisonous* plant!
 
+My _mom_ claims she is a _master_ of cooking, but I'm always telling her, "DON'T COOK with **poison**!"
+
 ### Meaning
 >! POISON
 
@@ -188,6 +198,8 @@ _Mom_ ate a *poisonous* plant!
 
 ### Mnemonic
 My garden *produces* plants.
+
+**SANTA** Claus stands on top of the _cliff_ and **produces** toys, giving them _life_, and then they roll downhill into your chimney.
 
 ### Meaning
 >! BIRTH
@@ -235,6 +247,8 @@ My garden *produces* plants.
 ### Mnemonic
 Check on the _growth_ of the *wheat*.
 
+_Each_ bit of **barley** was fed to the _master_.
+
 ### Meaning
 >! BARLEY
 
@@ -252,6 +266,8 @@ Check on the _growth_ of the *wheat*.
 
 ### Mnemonic
 A *life*-giving plant.
+
+The _master_ gave you **life**, and the _master_ can take your **life** away with the _rifle_.
 
 ### Meaning
 >! LIFE
@@ -283,7 +299,9 @@ A *life*-giving plant.
 > https://www.japandict.com/kanji/%E7%89%B2
 
 ### Mnemonic
-A _cow's_ _life_ is *sacrified*.
+A _cow's_ _life_ is **sacrified**.
+
+When you **sacrifice** the _life_ of the _cow_, remember to **SAY** a prayer.
 
 ### Meaning
 >! SACRIFICE
@@ -301,7 +319,9 @@ A _cow's_ _life_ is *sacrified*.
 > https://www.japandict.com/kanji/%E6%98%9F
 
 ### Mnemonic
-The _sun_: a _life_-giving *star*.
+The _sun_: a _life_-giving **star**.
+
+They **SAY** _life_ can only exist on planets where the _sun_ is a **star**.
 
 ### Meaning
 >! STAR
@@ -321,7 +341,7 @@ The _sun_: a _life_-giving *star*.
 > https://www.japandict.com/kanji/%E8%80%95
 
 ### Mnemonic
-A *plow tills* the soil well.
+A *plow tills* the soil _well_.
 
 ### Meaning
 >! TILL
@@ -341,7 +361,9 @@ A *plow tills* the soil well.
 > https://www.japandict.com/kanji/%E7%95%B3
 
 ### Mnemonic
-Shoes are for the _field_, not the *tatami*.
+Shoes are for the _field_, not the **tatami**.
+
+**JOE** Stalin used fibers from _rice_ plants, his own generous _Moustache_ hair, and _Lincoln's hat_, and wove them together into a **tatami mat**.
 
 ### Meaning
 >! TATAMI MAT
