@@ -54,7 +54,8 @@ Drops of **rain** come...
 
 
 # 雲
-#### 厶二雨一
+### top: 雨 (rain)
+### bottom: 云 (cloud)
 https://www.japandict.com/kanji/%E9%9B%B2
 
 ### Mnemonic
@@ -73,7 +74,8 @@ Every rising **cloud** is a potential rain cloud
 
 
 # 曇
-#### 厶日二雨
+### top: 日 (sun)
+### botom: 雲 (rain)
 https://www.japandict.com/kanji/%E6%9B%87
 
 ### Mnemonic
@@ -98,7 +100,8 @@ It's **getting cloudy** but you can still see the *sun* a little.
 
 
 # 雷
-#### 田雨
+### top: 雨 (rain)
+### bottom: 田 (filed)
 https://www.japandict.com/kanji/%E9%9B%B7
 
 ### Mnemonic
@@ -119,7 +122,8 @@ The **RAI**ghtning fell from the *rainy* sky onto the *rice field*.
 
 
 # 露
-#### 止夂足口雨
+### top: 雨 (rain)
+### bottom: 路 (road)
 https://www.japandict.com/kanji/%E9%9C%B2
 
 ### Mnemonic
@@ -148,7 +152,8 @@ After the *rain* the *path* was covered with **dew**.
 
 
 # 電
-#### 乙田雨
+### top: 雨 (rain)
+### bottom: 田 + 乙 (lightning)
 https://www.japandict.com/kanji/%E9%9B%BB
 
 ### Mnemonic
@@ -165,7 +170,8 @@ An **electrical** field travels down the wire.
 
 
 # 伝
-#### 厶二⺅
+### left: ⺅ (person)
+### right: 云 (cloud)
 https://www.japandict.com/kanji/%E4%BC%9D
 
 ### Mnemonic
@@ -188,7 +194,8 @@ A *person* **transmits** a command to *decapitate the twin cows* and **DEN** you
 
 
 # 震
-#### 厂辰雨衣
+### top: 雨 (rain)
+### bottom: 辰 (tremble)
 https://www.japandict.com/kanji/%E9%9C%87
 
 ### Mnemonic
@@ -209,7 +216,8 @@ I **shake** and **tremble** at the foot of a cliff.
 
 
 # 雰
-#### ハ刀(分)雨 
+### top: 雨 (rain)
+### bottom: 分 (divide)
 https://www.japandict.com/kanji/%E9%9B%B0
 
 ### Mnemonic
@@ -230,11 +238,10 @@ Please *understand* that *rain* falls from the **atmosphere**.
 
 
 # 云
-#### 厶二一
 https://www.japandict.com/kanji/%E4%BA%91
 
 ### Mnemonic
-As an element this means **cloud**. Alone, it is a rarely used character meaning "speak".
+As an element this means **cloud**. Alone, it is a rarely used character meaning **"speak"**.
 
 ### Meaning
 >! "CLOUD"
