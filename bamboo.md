@@ -26,7 +26,7 @@ https://www.japandict.com/kanji/%E7%AB%B9
 # 筒
 ### top: 竹 (bamboo)
 ### bottom: 同 (same)
-https://www.japandict.com/kanji/%E7%AB%B9
+https://www.japandict.com/kanji/%E7%AD%92
 
 ### Mnemonic
 **Cylindrical** bamboo **tubes**...
@@ -49,10 +49,10 @@ https://www.japandict.com/kanji/%E7%AB%B9
 https://www.japandict.com/kanji/%E7%AE%A1
 
 ### Mnemonic
-... are used as **pipes** in the officials' building.
+... are used as **pipes** in the _officials'_ building.
 
 ### Meaning
->! KAN
+>! PIPE
 
 ### ON'YOMI
 >! KAN
