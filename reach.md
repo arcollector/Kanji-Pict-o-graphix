@@ -30,7 +30,7 @@ This is a **hand**, too.
 > https://www.japandict.com/kanji/%E5%B7%A6
 
 ### Mnemonic
-_Work_ with your **left** hand ...
+_Work_ with your **left** _hand_ ...
 
 ### Meaning
 >! LEFT
@@ -86,7 +86,7 @@ A hand reaches out in **friendship**.
 > https://www.japandict.com/kanji/%E7%B7%A9
 
 ### Mnemonic
-Give me some **slack** and make the rope **loose**.
+Give me some **slack** and make the _rope_ **loose**.
 
 ### Meaning
 >! LOOSE
@@ -114,7 +114,7 @@ Give me some **slack** and make the rope **loose**.
 > https://www.japandict.com/kanji/%E6%8F%B4
 
 ### Mnemonic
-An extra hand **helps** pull up the rope.
+An extra _hand_ **helps** pull up the _rope_.
 
 ### Meaning
 >! HELP
