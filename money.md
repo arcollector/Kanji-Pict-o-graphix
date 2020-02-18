@@ -226,7 +226,7 @@ The one **defeated bears** the financial burden.
 > https://www.japandict.com/kanji/%E6%90%8D
 
 ### Mnemonic
-The _official's_ _money_ is **lost**. There's zero left!.s
+The _official's_ _money_ is **lost**. There's zero left!.
 
 ### Meaning
 >! LOSS
