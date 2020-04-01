@@ -43,7 +43,7 @@ He **opposed** the movie with a thumb's down.
 > https://www.japandict.com/kanji/%E7%84%A1
 
 ### Mnemonic
-_Burn_ the _books_ til there are **none.
+_Burn_ the _books_ til there are **none**.
 
 ### Meaning
 >! NOT
