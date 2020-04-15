@@ -192,7 +192,7 @@ Clothes **dry** on the line.
 
 
 # 由
-### 田｜
+### 由
 https://www.japandict.com/kanji/%E7%94%B1
 
 ### Mnemonic
