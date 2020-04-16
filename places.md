@@ -13,6 +13,16 @@
 11. [里](#里)
 12. [町](#町)
 13. [丁](#丁)
+14. [堂](#堂)
+15. [宮](#宮)
+16. [宿](#宿)
+17. [宅](#宅)
+18. [室](#室)
+19. [至](#至)
+20. [拡](#拡)
+21. [府](#府)
+22. [庁](#庁)
+23. [広](#広)
 
 
 # 京
@@ -282,3 +292,214 @@ This sign shows what **town** you're in ...
 
 ### KUN'YOMI
 >! none
+
+
+# 堂
+### top: 宀 (roof)
+### middle: 口 (opening)
+### bottom: 土 (soil)
+> https://www.japandict.com/kanji/%E5%A0%82
+
+### Mnemonic
+A chalice is used in **temples** and **halls**.
+
+### Meaning
+>! HALL
+
+>! TEMPLE
+
+### ON'YOMI
+>! DOO
+
+### KUN'YOMI
+>! none
+
+
+# 宮
+### top: 宀 (roof)
+### bottom: 呂 (backbone)
+> https://www.japandict.com/kanji/%E5%AE%AE
+
+### Mnemonic
+The prince lives in a two-storied **palace**.
+
+### Meaning
+>! PALACE
+
+>! SHRINE
+
+>! PRINCE
+
+### ON'YOMI
+>! KYUU
+
+>! GUU
+
+>! KU
+
+### KUN'YOMI
+>! miya
+
+
+# 宿
+### top: 宀 (roof)
+### bottom: 佰 (hundred)
+> https://www.japandict.com/kanji/%E5%AE%BF
+
+### Mnemonic
+The **lodge** holds a _hundred_ _people_.
+
+### Meaning
+>! LODGE
+
+>! SHELTER
+
+>! HOUSE
+
+### ON'YOMI
+>! SHUKU
+
+### KUN'YOMI
+>! yado
+
+>! yado**ru**
+
+
+# 宅
+### top: 宀 (roof)
+### bottom: 乇 (to depend on)
+> https://www.japandict.com/kanji/%E5%AE%85
+
+### Mnemonic
+**Home** is a _roof_ over your head.
+
+### Meaning
+>! HOUSE
+
+>! HOME
+
+### ON'YOMI
+>! TAKU
+
+### KUN'YOMI
+>! none
+
+
+# 室
+### top: 宀 (roof)
+### bottom: 至 (reach)
+> https://www.japandict.com/kanji/%E5%AE%A4
+
+### Mnemonic
+_Reach_ for some flowers to decorate the **house**.
+
+### Meaning
+>! ROOM
+
+>! HOUSE
+
+### ON'YOMI
+>! SHITSU
+
+### KUN'YOMI
+>! muro
+
+
+# 至
+### top: ? (arrow?)
+### bottom: 土 (soil)
+> https://www.japandict.com/kanji/%E5%AE%A4
+
+### Mnemonic
+**Reach** for the plant in the _soil_.
+
+### Meaning
+>! ROOM
+
+>! HOUSE
+
+### ON'YOMI
+>! SHITSU
+
+### KUN'YOMI
+>! muro
+
+
+# 拡
+### left: 扌(hand)
+### right: 広 (wide)
+> https://www.japandict.com/kanji/%E6%8B%A1
+
+### Mnemonic
+**Spread** your _hand_ _wide_.
+
+### Meaning
+>! SPREAD
+
+### ON'YOMI
+>! KAKU
+
+### KUN'YOMI
+>! none
+
+
+# 府
+### outer: 广 (building)
+### inner: 付 (attach)
+> https://www.japandict.com/kanji/%E5%BA%9C
+
+### Mnemonic
+**Government office** workers give themselves medals.
+
+### Meaning
+>! GOV'T OFFICE
+
+>! PREFECTURE
+
+### ON'YOMI
+>! FU
+
+### KUN'YOMI
+>! none
+
+
+# 庁
+### outer: 广 (building)
+### inner: 丁 (exact)
+> https://www.japandict.com/kanji/%E5%BA%81
+
+### Mnemonic
+The sign marks the **government agency**.
+
+### Meaning
+>! GOV'T OFFICE
+
+>! AGENCY
+
+### ON'YOMI
+>! CHOO
+
+### KUN'YOMI
+>! none
+
+
+# 広
+### outer: 广 (building)
+### inner: 丁 (exact)
+> https://www.japandict.com/kanji/%E5%BA%83
+
+### Mnemonic
+I have a _wide_ and **spacious** building for myself.
+
+### Meaning
+>! WIDE
+
+>! SPACIOUS
+
+### ON'YOMI
+>! KOO
+
+### KUN'YOMI
+>! hiro**i**
+
+>! hiro**geru**
